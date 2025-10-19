@@ -78,8 +78,3 @@ Ini adalah teknologi yang saya gunakan dalam proyek-proyek saya, yang mencermink
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA_DI_GITHUB&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA_DI_GITHUB&layout=compact&theme=dracula" alt="Top Languages">
-</p>
