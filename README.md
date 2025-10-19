@@ -21,7 +21,7 @@ Fokus utama saya terbagi di antara:
 
 Saya percaya pemahaman di persimpangan tiga bidang ini sangat penting untuk menciptakan teknologi yang andal di masa depan.
 
-- 🌱 Saat ini saya sedang mendalami *[Sebutkan teknologi/konsep spesifik, misal: 'Secure coding practices in Spring Boot' atau 'Deep Learning for NLP']*.
+- 🌱 Saat ini saya sedang belajar saja dan belum mempunyai keahlian yang tergolong besar dan hanya sebatas tahu saja, dan mencoba.
 - 📫 Hubungi saya melalui email di **danarhusain@gmail.com** atau [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA).
 
 ---
