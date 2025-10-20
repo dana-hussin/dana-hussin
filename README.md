@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Magelang, Indonesia-blue.svg?style=flat" alt="Lokasi">
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank">
+  <a href="www.linkedin.com/in/Widyadana-Hussin-F" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Widyadana H.F.-blue.svg?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:danarhusain@gmail.com">
